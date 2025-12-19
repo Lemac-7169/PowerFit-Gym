@@ -33,18 +33,6 @@ Para cumplir con los requerimientos del cliente (Marco y su socio) y la rúbrica
 
 ---
 
-## ✅ Cumplimiento de la Rúbrica (50 Puntos)
-
-| Componente | Estado | Detalles de Implementación |
-| :--- | :---: | :--- |
-| **Modelo Configurado** | ✅ | Uso de `$fillable`, `$casts` para fechas y `SoftDeletes`. |
-| **Controlador CRUD** | ✅ | `MemberController` con métodos `index`, `create`, `store`, `destroy` (soft). |
-| **Vistas Responsivas** | ✅ | Diseño adaptable a móviles usando Grid System y utilidades de Bootstrap. |
-| **Rutas Configuradas** | ✅ | Uso de `Route::resource` para mantener `web.php` limpio y estándar. |
-| **Migración Funcional** | ✅ | Tabla `members` con índices y columna `deleted_at` (Extra +2). |
-
----
-
 ## 🛠️ Instalación y Configuración
 
 Sigue estos pasos para desplegar el proyecto en local:
