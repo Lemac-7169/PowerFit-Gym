@@ -1,8 +1,8 @@
-# 🏋️ PowerFit Gym - Sistema de Gestión de Membresías
+# PowerFit Gym - Sistema de Gestión de Membresías
 
 Sistema web desarrollado para la gestión administrativa de miembros del gimnasio "PowerFit Gym", optimizado para uso móvil y cumplimiento de auditoría de datos.
 
-## 🧠 Decisiones de Diseño y Arquitectura
+## Decisiones de Diseño y Arquitectura
 
 Para cumplir con los requerimientos del cliente (Marco y su socio) y la rúbrica de evaluación, se tomaron las siguientes decisiones técnicas:
 
@@ -33,7 +33,7 @@ Para cumplir con los requerimientos del cliente (Marco y su socio) y la rúbrica
 
 ---
 
-## 🛠️ Instalación y Configuración
+## Instalación y Configuración
 
 Sigue estos pasos para desplegar el proyecto en local:
 
