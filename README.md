@@ -82,6 +82,3 @@ Sigue estos pasos para desplegar el proyecto en local:
     Visita `http://127.0.0.1:8000` en tu navegador.
 
 ---
-
-## 📸 Capturas de Pantalla
-*(Opcional: Puedes agregar aquí capturas de tu sistema funcionando en vista móvil y escritorio)*
